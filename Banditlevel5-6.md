@@ -2,7 +2,8 @@
 
 ##Objective: Find the password for next level from a file with given specification in inhere directory
 
-##Steps taken: 1.Connecting to server
+##Steps taken: 
+1.Connecting to server
 
 Used the SSH command to login to the server with the provided password
 
